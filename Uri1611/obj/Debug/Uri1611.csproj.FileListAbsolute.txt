@@ -1,0 +1,7 @@
+C:\Users\joao.spengler\Desktop\Uri\Uri1611\Uri1611\bin\Debug\Uri1611.exe.config
+C:\Users\joao.spengler\Desktop\Uri\Uri1611\Uri1611\bin\Debug\Uri1611.exe
+C:\Users\joao.spengler\Desktop\Uri\Uri1611\Uri1611\bin\Debug\Uri1611.pdb
+C:\Users\joao.spengler\Desktop\Uri\Uri1611\Uri1611\obj\Debug\Uri1611.csprojAssemblyReference.cache
+C:\Users\joao.spengler\Desktop\Uri\Uri1611\Uri1611\obj\Debug\Uri1611.csproj.CoreCompileInputs.cache
+C:\Users\joao.spengler\Desktop\Uri\Uri1611\Uri1611\obj\Debug\Uri1611.exe
+C:\Users\joao.spengler\Desktop\Uri\Uri1611\Uri1611\obj\Debug\Uri1611.pdb
